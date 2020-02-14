@@ -5,6 +5,8 @@ Genom att ha ambition att starta eget och ett stort intresse för statistik, så
 
 För ytterliggare information läs min github wiki. Där beskrivs vilka classer som har vilka modeller och funktioner!
 
+Nedanför beskrivs modellerna mer i detalj och vad deras syfte är i mitt projekt.
+
 {Finans modeller} Historisk avkastning av aktier och portföljer För att kunna implementera modeller och utöka analymetoder så jag implementerat två sätt att erhålla den historiska avkastningen, vilket är simpel avkastning och logaritmisk avkastning. Avkastningarna går att erhålla på en avskild aktie, portfölj eller flera index.
 
 Riskanalyser av investeringar Med avkastning kommer risk. Därför har jag även implementerat riskanalyser av enskila aktier, portföljer och av olika index. Där olika varibler så som standard avvikelse, varience, portfölj volatilitet, systematisk risk och icke-systemtisk risk undersöks. Inom denna sektion undersöks även covarience och correlation mellan aktier.
